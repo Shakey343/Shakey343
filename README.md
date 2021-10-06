@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shakey343
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in Front-end Development!
 - 🌱 I’m currently learning PHP/Bootstrap/Sass
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jakepople@hotmail.co.uk
