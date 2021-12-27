@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shakey343
 - 👀 I’m interested in Front-end Development!
-- 🌱 I’m currently learning PHP/Bootstrap/Sass
+- 🌱 I’m currently learning at Le Wagon!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jakepople@hotmail.co.uk
 
