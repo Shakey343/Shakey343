@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shakey343
-- 👀 I’m interested in Front-end Development!
+- 👀 I’m interested in Full Stack Development!
 - 🌱 I’m currently learning at Le Wagon!
 
 <!---
