@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shakey343
-- 👀 I’m interested in Full Stack Development!
-- 🌱 I teach coding at Le Wagon!
+- 👀 I’m a software enginner!
+- 🌱 I sometimes teach coding at Le Wagon!
 - 📧 jakepople@hotmail.co.uk
 
 <!---
