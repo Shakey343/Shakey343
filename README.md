@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shakey343
+👋 Hi, I’m @Shakey343
 - 👀 I’m a software enginner!
 - 🌱 I sometimes teach coding at Le Wagon!
 - 📧 jakepople@hotmail.co.uk
