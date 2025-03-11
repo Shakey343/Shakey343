@@ -46,7 +46,3 @@
   <li><a href="https://www.lakedistrictbookfestival.co.uk/" target="_blank">The Lake Distrcit Book Festival</a></li>
   <li><a href="https://www.rye.energy/" target="_blank">Rye Energy</a></li>
 </ul>
-<br/>
-
-<h2>Some nice stats</h2>
-![Shakey343's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakey343&show_icons=true&theme=radical)
