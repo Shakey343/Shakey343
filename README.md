@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="vercel" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="flask" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" alt="railway" width="45" height="45" style="color: black;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/railway/railway-original.svg" alt="railway" width="45" height="45" style="background: black;" />
 </p>
 <br/>
 
