@@ -1,6 +1,7 @@
 <h1>👋 Hi, I’m @Shakey343</h1>
 <ul>
   <li>🖌️ Frontend Developer | Fullstack Developer | Web Designer</li>
+  <li>🔎 Developer Support Engineer @ Algolia</li>
   <li>🌱 Lecturer | Batch Manager @ Le Wagon 🚚</li>
   <li>💻 Freelancer who designs & builds web apps</li>
   <li>📧 Get in touch -> <a href="mailto:jakepople@hotmail.co.uk" target="_blank"><strong>jakepople@hotmail.co.uk</strong></a></li>
